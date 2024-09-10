@@ -1,0 +1,34 @@
+body{
+    background-color: #fee0ec;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+.banner{
+    width: 96%;
+            height: 130px; /* Ajusta la altura según tus necesidades */
+            background: url('imagenes/diseño de paginas web.jpeg') no-repeat center center;
+            background-size: cover;
+}
+td {
+    vertical-align: text-top;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(119, 206, 230);
+}
+div{
+    color: #7352b6;
+    height: 100%;
+    height: 100%;
+    padding: 20px 10px 20px 30px;
+    margin: 10px;
+    border: 1px solid #dbacc5;
+    background-color: #d1dce3;
+    border-radius: 15px;
+    border: solid 2px #c7bacd;
+    border-radius: 15px 0px 15px 0px;
+    box-shadow: 2px 2px 5px #3b25de;
+}
